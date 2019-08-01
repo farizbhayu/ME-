@@ -1,0 +1,1 @@
+ScrollReveal().reveal('#img', {duration: 2000, reset: true});
